@@ -1,4 +1,4 @@
-const API_URL = "https://rstechhub.onrender.com/api";
+const API_URL = "https://rsrohan.onrender.com/api";
 
 // Register user
 async function registerUser(event) {
